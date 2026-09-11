@@ -7,6 +7,14 @@ The course explains how modern LLM systems are developed throughout their lifecy
 
 A major strength of the course is that it connects theoretical concepts with practical implementation and business use cases. The course includes hands-on labs involving tasks such as dialogue summarization, model fine-tuning, and reinforcement-learning-based improvement.
 
+## 👨‍🏫 Who Teaches the Course?
+The course is taught by four AWS practitioners:
+**Antje Barth** — Principal Developer Advocate, Generative AI, Amazon Web Services (AWS)
+**Chris Fregly** — Principal Solutions Architect, Generative AI, AWS
+**Shelbee Eigenbrode** — Principal Solutions Architect, Generative AI, AWS
+**Mike Chambers** — Developer Advocate for Generative AI at AWS.
+**Concept → Architecture → Practical Example → Lab → Evaluation → Real-world Application**
+
 ## 📘 Week 1 — Generative AI Use Cases, Project Lifecycle & Model Pre-training
 During Week 1, I learn the **fundamentals of Generative AI and Large Language Models, along with how an LLM project is planned and trained**.
 
