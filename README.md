@@ -64,7 +64,7 @@ Choose the answer that correctly fill in the blanks.
 (B). prediction request, prediction response
 (C). tunable request, completion
 (D). prompt, fine-tuned LLM
-_Correct Ans_- **(A). prompt, completion**
+**_Correct Ans_- (A). prompt, completion**
 
 Question 2
 Large Language Models (LLMs) are capable of performing multiple tasks supporting a variety of use cases.  Which of the following tasks supports the use case of converting code comments into executable code?
@@ -73,6 +73,6 @@ Large Language Models (LLMs) are capable of performing multiple tasks supporting
 (B). Invoke actions from text
 (C). Text summarization
 (D). Information Retrieval
-_Correct Ans_- **(A). Translation**
+**_Correct Ans_- (A). Translation**
 
 # Ongoing Course. Very soon full details will be here.
