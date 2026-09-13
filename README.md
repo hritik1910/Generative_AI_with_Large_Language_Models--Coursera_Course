@@ -51,4 +51,6 @@ Key topics covered
 🔹Hands-on Lab
 • Build a Generative AI use case for dialogue summarization
 
+## Week -1 Generative AI with Large Language Model - Coursera Course Quiz Answers
+![Alt Text](https://github.com/hritik1910/Generative_AI_with_Large_Language_Models--Coursera_Course/blob/main/Week-1_GenAI_with_LLM_Coursera_Course.jpg)
 # Ongoing Course. Very soon full details will be here.
