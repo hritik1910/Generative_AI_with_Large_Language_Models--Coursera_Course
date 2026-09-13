@@ -64,7 +64,7 @@ Choose the answer that correctly fill in the blanks.
 (B). prediction request, prediction response
 (C). tunable request, completion
 (D). prompt, fine-tuned LLM
-**_Correct Ans_- (A). prompt, completion**
+**_Correct Ans_- (A)**
 
 Question 2
 Large Language Models (LLMs) are capable of performing multiple tasks supporting a variety of use cases.  Which of the following tasks supports the use case of converting code comments into executable code?
@@ -73,6 +73,23 @@ Large Language Models (LLMs) are capable of performing multiple tasks supporting
 (B). Invoke actions from text
 (C). Text summarization
 (D). Information Retrieval
-**_Correct Ans_- (A). Translation**
+**_Correct Ans_- (A)**
 
+Question 3
+What is the self-attention that powers the transformer architecture?
+
+(A). A measure of how well a model can understand and generate human-like language.
+(B). The ability of the transformer to analyze its own performance and make adjustments accordingly.
+(C). A technique used to improve the generalization capabilities of a model by training it on diverse datasets.
+(D). A mechanism that allows a model to focus on different parts of the input sequence during computation.
+**_Correct Ans_- (D)**
+
+Question 4
+Which of the following stages are part of the generative AI model lifecycle mentioned in the course? (Select all that apply)
+
+(A). Manipulating the model to align with specific project needs.
+(B). Selecting a candidate model and potentially pre-training a custom model.
+(C). Defining the problem and identifying relevant datasets.
+(D). Performing regularization
+(E). Deploying the model into the infrastructure and integrating it with the application.
 # Ongoing Course. Very soon full details will be here.
