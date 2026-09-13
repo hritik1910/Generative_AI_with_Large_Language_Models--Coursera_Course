@@ -54,4 +54,25 @@ Key topics covered
 ## Week -1 Generative AI with Large Language Model - Coursera Course Quiz Answers
 ![Alt Text](https://github.com/hritik1910/Generative_AI_with_Large_Language_Models--Coursera_Course/blob/main/Week-1_GenAI_with_LLM_Coursera_Course.jpg)
 ![Alt Text](https://github.com/hritik1910/Generative_AI_with_Large_Language_Models--Coursera_Course/blob/main/Week%201%20-%20Pre%20Training%20For%20Domain%20Adaption.png)
+
+**Weekly Quiz - Week - 1**
+Question 1
+Interacting with Large Language Models (LLMs) differs from traditional machine learning models. Working with LLMs involves natural language input, known as a  _____, resulting in output from the Large Language Model, known as the ______ .
+Choose the answer that correctly fill in the blanks.
+
+(A). prompt, completion
+(B). prediction request, prediction response
+(C). tunable request, completion
+(D). prompt, fine-tuned LLM
+_Correct Ans_- **(A). prompt, completion**
+
+Question 2
+Large Language Models (LLMs) are capable of performing multiple tasks supporting a variety of use cases.  Which of the following tasks supports the use case of converting code comments into executable code?
+
+(A). Translation
+(B). Invoke actions from text
+(C). Text summarization
+(D). Information Retrieval
+_Correct Ans_- **(A). Translation**
+
 # Ongoing Course. Very soon full details will be here.
