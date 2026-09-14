@@ -102,4 +102,12 @@ Is this true or false?
 (B). False
 **_Correct Ans_- (B)**
 
+**Question 6**
+Which transformer-based model architecture has the objective of guessing a masked token based on the previous sequence of tokens by building bidirectional representations of the input sequence.
+
+(A). Autoregressive
+(B). Sequence-to-sequence
+(C). Autoencoder
+**_Correct Ans_- (C)**
+
 # Ongoing Course. Very soon full details will be here.
