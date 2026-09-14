@@ -92,4 +92,14 @@ Which of the following stages are part of the generative AI model lifecycle ment
 (C). Defining the problem and identifying relevant datasets.
 (D). Performing regularization
 (E). Deploying the model into the infrastructure and integrating it with the application.
+**_Correct Ans_- (A), (B), (C) & (E)**
+
+**Question 5**
+"RNNs are better than Transformers for generative AI Tasks." 
+Is this true or false?
+
+(A). True
+(B). False
+**_Correct Ans_- (B)**
+
 # Ongoing Course. Very soon full details will be here.
