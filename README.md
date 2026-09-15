@@ -110,4 +110,19 @@ Which transformer-based model architecture has the objective of guessing a maske
 (C). Autoencoder
 **_Correct Ans_- (C)**
 
+**Question 7**
+Which transformer-based model architecture is well-suited to the task of text translation?
+
+(A). Sequence-to-sequence
+(B). Autoencoder
+(C). Autoregressive
+**_Correct Ans_- (A)**
+
+**Question 8**
+Do we always need to increase the model size to improve its performance?
+
+(A). True
+(B). False
+**_Correct Ans_- (B)**
+
 # Ongoing Course. Very soon full details will be here.
