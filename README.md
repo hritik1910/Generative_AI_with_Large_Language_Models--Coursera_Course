@@ -132,8 +132,14 @@ Scaling laws for pre-training large language models consider several aspects to 
 (B). Model size: Number of parameters
 (C). Batch size: Number of samples per iteration 
 (D). Compute budget: Compute constraints
-**_Correct Ans_- (A), (B) & (D)
+**_Correct Ans_- (A), (B) & (D)**
 
+Question 10
+"You can combine data parallelism with model parallelism to train LLMs."
+Is this true or false?
 
+(A). True
+(b). False
+**_Correct Ans_- (A)**
 
 # Ongoing Course. Very soon full details will be here.
