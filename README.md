@@ -125,4 +125,15 @@ Do we always need to increase the model size to improve its performance?
 (B). False
 **_Correct Ans_- (B)**
 
+**Question 9**
+Scaling laws for pre-training large language models consider several aspects to maximize performance of a model within a set of constraints and available scaling choices.  Select all alternatives that should be considered for scaling when performing model pre-training?
+
+(A). Dataset size: Number of tokens
+(B). Model size: Number of parameters
+(C). Batch size: Number of samples per iteration 
+(D). Compute budget: Compute constraints
+**_Correct Ans_- (A), (B) & (D)
+
+
+
 # Ongoing Course. Very soon full details will be here.
