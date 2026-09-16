@@ -15,7 +15,7 @@ The course is taught by four AWS practitioners:
 **Mike Chambers** — Developer Advocate for Generative AI at AWS.
 **Concept → Architecture → Practical Example → Lab → Evaluation → Real-world Application**
 
-## 📘 Week 1 — Generative AI Use Cases, Project Lifecycle & Model Pre-training
+# 📘 Week 1 — Generative AI Use Cases, Project Lifecycle & Model Pre-training
 During Week 1, I learn the **fundamentals of Generative AI and Large Language Models, along with how an LLM project is planned and trained**.
 
 Key topics covered
@@ -134,12 +134,50 @@ Scaling laws for pre-training large language models consider several aspects to 
 (D). Compute budget: Compute constraints
 **_Correct Ans_- (A), (B) & (D)**
 
-Question 10
+**Question 10**
 "You can combine data parallelism with model parallelism to train LLMs."
 Is this true or false?
 
 (A). True
 (b). False
 **_Correct Ans_- (A)**
+
+# 📗 Week 2 — Fine-Tuning & Evaluating Large Language Models
+
+**NOTE: Week 2 focuses on adapting existing pretrained LLMs for specific tasks rather than building a model completely from scratch.**
+
+Key topics covered
+🔹Instruction Fine-Tuning
+• Understand how pretrained models can be trained to follow instructions
+• Learn how fine-tuning changes a model's behavior
+
+🔹Single-Task Fine-Tuning
+• Adapt an LLM for a specific task
+• Understand when task-specific fine-tuning is useful
+
+🔹Multi-Task Instruction Fine-Tuning
+• Learn how a model can be trained across multiple tasks
+• Understand the benefits and trade-offs of multi-task training
+
+🔹Model Evaluation
+• Learn how LLM performance is measured
+• Understand evaluation methodologies and model benchmarks
+• Compare model performance across different tasks
+
+🔹Parameter-Efficient Fine-Tuning (PEFT)
+• Understand why updating every parameter of a large model can be expensive
+• Learn techniques that reduce computational and memory requirements
+
+🔹LoRA
+• Learn Low-Rank Adaptation
+• Understand how LoRA allows efficient model adaptation with fewer trainable parameters
+
+🔹Soft Prompts
+• Explore another parameter-efficient technique for adapting LLM behavior
+
+🔹Hands-on Lab
+• Fine-tune a Generative AI model for dialogue summarization
+
+## Week -2 Generative AI with Large Language Model - Coursera Course Quiz Answers
 
 # Ongoing Course. Very soon full details will be here.
