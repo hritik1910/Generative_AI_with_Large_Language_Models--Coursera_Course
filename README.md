@@ -55,8 +55,8 @@ Key topics covered
 ![Alt Text](https://github.com/hritik1910/Generative_AI_with_Large_Language_Models--Coursera_Course/blob/main/Week-1_GenAI_with_LLM_Coursera_Course.jpg)
 ![Alt Text](https://github.com/hritik1910/Generative_AI_with_Large_Language_Models--Coursera_Course/blob/main/Week%201%20-%20Pre%20Training%20For%20Domain%20Adaption.png)
 
-**Weekly Quiz - Week - 1**
-Question 1
+## **Weekly Quiz - Week - 1**
+**Question 1**
 Interacting with Large Language Models (LLMs) differs from traditional machine learning models. Working with LLMs involves natural language input, known as a  _____, resulting in output from the Large Language Model, known as the ______ .
 Choose the answer that correctly fill in the blanks.
 
@@ -66,7 +66,7 @@ Choose the answer that correctly fill in the blanks.
 (D). prompt, fine-tuned LLM
 **_Correct Ans_- (A)**
 
-Question 2
+**Question 2**
 Large Language Models (LLMs) are capable of performing multiple tasks supporting a variety of use cases.  Which of the following tasks supports the use case of converting code comments into executable code?
 
 (A). Translation
@@ -75,7 +75,7 @@ Large Language Models (LLMs) are capable of performing multiple tasks supporting
 (D). Information Retrieval
 **_Correct Ans_- (A)**
 
-Question 3
+**Question 3**
 What is the self-attention that powers the transformer architecture?
 
 (A). A measure of how well a model can understand and generate human-like language.
@@ -84,7 +84,7 @@ What is the self-attention that powers the transformer architecture?
 (D). A mechanism that allows a model to focus on different parts of the input sequence during computation.
 **_Correct Ans_- (D)**
 
-Question 4
+**Question 4**
 Which of the following stages are part of the generative AI model lifecycle mentioned in the course? (Select all that apply)
 
 (A). Manipulating the model to align with specific project needs.
@@ -214,7 +214,7 @@ Parameter Efficient Fine-Tuning (PEFT) methods specifically attempt to address s
 (D). Storage requirements
 **_Correct Ans_- (B), (C) & (D)**
 
-**Weekly Quiz - Week - 2**
+## Weekly Quiz - Week - 2
 **Question 1**
 Fill in the blanks: __________ involves using many prompt-completion examples as the labeled training dataset to continue training the model by updating its weights.  This is different from _________ where you provide prompt-completion examples during inference.
 
