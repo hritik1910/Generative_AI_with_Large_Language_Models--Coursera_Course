@@ -180,4 +180,12 @@ Key topics covered
 
 ## Week -2 Generative AI with Large Language Model - Coursera Course Quiz Answers
 
+**Fine Tuning On Single Task - On going Week 2 question**
+Which of the following are true in respect to Catastrophic Forgetting? Select all that apply.
+
+(A). Catastrophic forgetting only occurs in supervised learning tasks and is not a problem in unsupervised learning.
+(B). Catastrophic forgetting is a common problem in machine learning, especially in deep learning models.
+(C). One way to mitigate catastrophic forgetting is by using regularization techniques to limit the amount of change that can be made to the weights of the model during training.
+(D). Catastrophic forgetting occurs when a machine learning model forgets previously learned information as it learns new information.
+
 # Ongoing Course. Very soon full details will be here.
