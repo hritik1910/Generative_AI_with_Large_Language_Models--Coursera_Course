@@ -187,5 +187,15 @@ Which of the following are true in respect to Catastrophic Forgetting? Select al
 (B). Catastrophic forgetting is a common problem in machine learning, especially in deep learning models.
 (C). One way to mitigate catastrophic forgetting is by using regularization techniques to limit the amount of change that can be made to the weights of the model during training.
 (D). Catastrophic forgetting occurs when a machine learning model forgets previously learned information as it learns new information.
+**_Correct Ans_- (B), (C) & (D)**
+
+**Multi-task instruction fine tuning - On going Week 2 question**
+What is the purpose of fine-tuning with prompt datasets?
+
+(A). To decrease the accuracy of a pre-trained language model by introducing new prompts.
+(B). To improve the performance and adaptability of a pre-trained language model for specific tasks.
+(C). To increase the computational resources required for training a language model.
+(D). To eliminate the need for instructions and prompts in training a language model.
+**_Correct Ans_- (D)**
 
 # Ongoing Course. Very soon full details will be here.
