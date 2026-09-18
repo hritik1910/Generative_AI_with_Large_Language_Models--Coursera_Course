@@ -196,6 +196,22 @@ What is the purpose of fine-tuning with prompt datasets?
 (B). To improve the performance and adaptability of a pre-trained language model for specific tasks.
 (C). To increase the computational resources required for training a language model.
 (D). To eliminate the need for instructions and prompts in training a language model.
-**_Correct Ans_- (D)**
+**_Correct Ans_- (B)**
+
+**Parameter efficient fine-tuning (PEFT) - On going Week 2 question**
+"Parameter Efficient Fine-Tuning (PEFT) updates only a small subset of parameters. This helps prevent catastrophic forgetting." True or False?
+
+(A). True
+(B). False
+**_Correct Ans_- (A)**
+
+**PEFT techniques 2 soft prompts - On going Week 2 question**
+Parameter Efficient Fine-Tuning (PEFT) methods specifically attempt to address some of the challenges of performing full fine-training. Which of the following options describe challenges that PEFT tries to overcome?
+
+(A). Model performance
+(B). Computational constraints
+(C). Catastrophic forgetting
+(D). Storage requirements
+**_Correct Ans_- (B), (C) & (D)**
 
 # Ongoing Course. Very soon full details will be here.
