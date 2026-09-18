@@ -214,4 +214,8 @@ Parameter Efficient Fine-Tuning (PEFT) methods specifically attempt to address s
 (D). Storage requirements
 **_Correct Ans_- (B), (C) & (D)**
 
+**Weekly Quiz - Week - 2**
+**Question 1**
+Fill in the blanks: __________ involves using many prompt-completion examples as the labeled training dataset to continue training the model by updating its weights.  This is different from _________ where you provide prompt-completion examples during inference.
+
 # Ongoing Course. Very soon full details will be here.
