@@ -218,4 +218,11 @@ Parameter Efficient Fine-Tuning (PEFT) methods specifically attempt to address s
 **Question 1**
 Fill in the blanks: __________ involves using many prompt-completion examples as the labeled training dataset to continue training the model by updating its weights.  This is different from _________ where you provide prompt-completion examples during inference.
 
+(A). Instruction fine-tuning, In-context learning
+(B). In-context learning, Instruction fine-tuning 
+(C). Pre-training, Instruction fine-tuning
+(D). Prompt engineering, Pre-training
+**_Correct Ans_- (A)**
+
+
 # Ongoing Course. Very soon full details will be here.
