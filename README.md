@@ -233,4 +233,13 @@ Fine-tuning a model on a single task can improve model performance specifically 
 (D). Instruction bias
 **_Correct Ans_- (C)**
 
+**Question 3**
+Which evaluation metric below focuses on precision in matching generated output to the reference text and is used for text translation?
+
+(A). ROUGE-1
+(B). BLEU
+(C). HELM
+(D). ROUGE-2
+**_Correct Ans_- (B)**
+
 # Ongoing Course. Very soon full details will be here.
