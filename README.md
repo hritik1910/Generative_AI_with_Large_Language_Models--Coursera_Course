@@ -224,5 +224,15 @@ Fill in the blanks: __________ involves using many prompt-completion examples as
 (D). Prompt engineering, Pre-training
 **_Correct Ans_- (A)**
 
+**Question 2**
+Fine-tuning a model on a single task can improve model performance specifically on that task; however, it can also degrade the performance of other tasks as a side effect.  This phenomenon is known as: 
+
+Model toxicity
+
+Catastrophic loss
+
+Catastrophic forgetting
+
+Instruction bias
 
 # Ongoing Course. Very soon full details will be here.
