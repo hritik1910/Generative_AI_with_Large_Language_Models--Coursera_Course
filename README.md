@@ -267,4 +267,13 @@ Which of the following are Parameter Efficient Fine-Tuning (PEFT) methods? Selec
 (D). Reparameterization
 **_Correct Ans_- (A), (C) & (D)**
 
+**Question 7**
+Which of the following best describes how LoRA works?
+
+(A). LoRA trains  a smaller, distilled version of the pre-trained LLM to reduce model size
+(B). LoRA continues the original pre-training objective on new data to update the weights of the original model.
+(C). LoRA decomposes weights into two smaller rank matrices and trains those instead of the full model weights.
+(D). LoRA freezes all weights in the original model layers and introduces new components which are trained on new data.
+**_Correct Ans_- (C)**
+
 # Ongoing Course. Very soon full details will be here.
