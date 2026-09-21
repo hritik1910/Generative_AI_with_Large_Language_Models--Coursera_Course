@@ -258,4 +258,13 @@ Which of the following statements about multi-task finetuning is correct? Select
 (B). False
 **_Correct Ans_- (A)**
 
+**Question 6**
+Which of the following are Parameter Efficient Fine-Tuning (PEFT) methods? Select all that apply.
+
+(A). Selective
+(B). Subtractive
+(C). Additive
+(D). Reparameterization
+**_Correct Ans_- (A), (C) & (D)**
+
 # Ongoing Course. Very soon full details will be here.
