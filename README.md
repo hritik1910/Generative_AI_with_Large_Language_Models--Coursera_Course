@@ -1,4 +1,4 @@
-# Generative AI with Large Language Models - Coursera Course
+ # Generative AI with Large Language Models - Coursera Course
 
 ## 1. 🎯 About the Course
 This course provides a practical and technical introduction to Generative AI and Large Language Models, going beyond simply using tools such as ChatGPT.
@@ -241,5 +241,14 @@ Which evaluation metric below focuses on precision in matching generated output 
 (C). HELM
 (D). ROUGE-2
 **_Correct Ans_- (B)**
+
+**Question 4**
+Which of the following statements about multi-task finetuning is correct? Select all that apply:
+
+(A). Multi-task finetuning can help prevent catastrophic forgetting.
+(B). Performing multi-task finetuning may lead to slower inference.
+(C). Multi-task finetuning requires separate models for each task being performed.
+(D). FLAN-T5 was trained with multi-task finetuning.
+**_Correct Ans_- (A) & (D)**
 
 # Ongoing Course. Very soon full details will be here.
