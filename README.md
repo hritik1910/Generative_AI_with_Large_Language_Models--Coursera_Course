@@ -285,4 +285,12 @@ What is a soft prompt in the context of LLMs (Large Language Models)?
 (D). A method to control the model's behavior by adjusting the learning rate during training.
 **_Correct Ans_- (A)**
 
+**Question 9**
+"Prompt Tuning is a technique used to adjust all hyperparameters of a language model." Is this true or false?
+
+(A). True
+(B). False
+**_Correct Ans_- (B)**
+
+
 # Ongoing Course. Very soon full details will be here.
