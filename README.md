@@ -276,4 +276,13 @@ Which of the following best describes how LoRA works?
 (D). LoRA freezes all weights in the original model layers and introduces new components which are trained on new data.
 **_Correct Ans_- (C)**
 
+**Question 8**
+What is a soft prompt in the context of LLMs (Large Language Models)?
+
+(A). A set of trainable tokens that are added to a prompt and whose values are updated during additional training to improve performance on specific tasks.
+(B). A strict and explicit input text that serves as a starting point for the model's generation.
+(C). A technique to limit the creativity of the model and enforce specific output patterns.
+(D). A method to control the model's behavior by adjusting the learning rate during training.
+**_Correct Ans_- (A)**
+
 # Ongoing Course. Very soon full details will be here.
