@@ -251,4 +251,11 @@ Which of the following statements about multi-task finetuning is correct? Select
 (D). FLAN-T5 was trained with multi-task finetuning.
 **_Correct Ans_- (A) & (D)**
 
+**Question 5**
+"Smaller LLMs can struggle with one-shot and few-shot inference:" Is this true or false?
+
+(A). True
+(B). False
+**_Correct Ans_- (A)**
+
 # Ongoing Course. Very soon full details will be here.
