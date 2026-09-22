@@ -292,5 +292,12 @@ What is a soft prompt in the context of LLMs (Large Language Models)?
 (B). False
 **_Correct Ans_- (B)**
 
+**Question 10**
+"PEFT methods can reduce the memory needed for fine-tuning dramatically, sometimes to just 12-20% of the memory needed for full fine-tuning."
+Is this true or false?
+
+(A). True
+(B). False
+**_Correct Ans_- (A)**
 
 # Ongoing Course. Very soon full details will be here.
