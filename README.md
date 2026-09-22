@@ -300,4 +300,14 @@ Is this true or false?
 (B). False
 **_Correct Ans_- (A)**
 
+## Week -3 Generative AI with Large Language Model - Coursera Course Quiz Answers
+
+**Reinforcement Learning with Human Feedback (RLHF) - On going Week 3 question**
+When using Reinforcement Learning with Human Feedback (RLHF) to align large language models with human preferences, what is the role of human labelers?
+
+(A). To identify model weights that should be updated
+(B). To compare the original LLM completions to the RLHF updated model completions and ensure they don't diverge too much.
+(C). To score prompt completions, so that this score is used to train the reward model component of the RLHF process.
+(D). To write prompts and completions from scratch that are used during fine-tuning with RLHF
+
 # Ongoing Course. Very soon full details will be here.
