@@ -309,5 +309,6 @@ When using Reinforcement Learning with Human Feedback (RLHF) to align large lang
 (B). To compare the original LLM completions to the RLHF updated model completions and ensure they don't diverge too much.
 (C). To score prompt completions, so that this score is used to train the reward model component of the RLHF process.
 (D). To write prompts and completions from scratch that are used during fine-tuning with RLHF
+**_Correct Ans_- (C)**
 
 # Ongoing Course. Very soon full details will be here.
