@@ -311,4 +311,13 @@ When using Reinforcement Learning with Human Feedback (RLHF) to align large lang
 (D). To write prompts and completions from scratch that are used during fine-tuning with RLHF
 **_Correct Ans_- (C)**
 
+**RLHF - Reward Hacking - On going Week 3 question**
+How can RLHF align the performance of large language models with human preferences? Select all that apply
+
+(A). Inference is faster after RLHF, improving the user experience
+(B). RLHF can enhance the interpretability of generated text
+(C). RLHF increases the model's size by adding new parameters that represent human preferences
+(D). RLHF can help reduce model toxicity and misinformation
+**_Correct Ans_- (B) & (D)**
+
 # Ongoing Course. Very soon full details will be here.
