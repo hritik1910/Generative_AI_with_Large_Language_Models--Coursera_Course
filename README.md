@@ -339,4 +339,13 @@ Which of the following are true in regards to Constitutional AI? Select all that
 (D). Red Teaming is the process of eliciting undesirable responses by interacting with a model.
 **_Correct Ans_- (A), (C) & (D)**
 
+**Question 2**
+What does the "Proximal" in Proximal Policy Optimization refer to?
+
+(A). The constraint that limits the distance between the new and old policy
+(B). The algorithm's ability to handle proximal policies.
+(C). The algorithm's proximity to the optimal policy
+(D). The use of a proximal gradient descent algorithm
+**_Correct Ans_- (A)**
+
 # Ongoing Course. Very soon full details will be here.
