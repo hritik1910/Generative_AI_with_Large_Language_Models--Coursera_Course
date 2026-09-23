@@ -329,4 +329,13 @@ How does Retrieval Augmented Generation (RAG) enhance generation-based models?
 (D). By increasing the training data size.
 **_Correct Ans_- (A)**
 
+## **Weekly Quiz - Week - 3**
+**Question 1**
+Which of the following are true in regards to Constitutional AI? Select all that apply.
+
+(A). To obtain revised answers for possible harmful prompts, we need to go through a Critique and Revision process.
+(B). For constitutional AI, it is necessary to provide human feedback to guide the revisions.
+(C). In Constitutional AI, we train a model to choose between different responses.
+(D). Red Teaming is the process of eliciting undesirable responses by interacting with a model.
+
 # Ongoing Course. Very soon full details will be here.
