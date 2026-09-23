@@ -327,5 +327,6 @@ How does Retrieval Augmented Generation (RAG) enhance generation-based models?
 (B). By applying reinforcement learning techniques to augment completions.
 (C). By optimizing model architecture to generate factual completions.
 (D). By increasing the training data size.
+**_Correct Ans_- (A)**
 
 # Ongoing Course. Very soon full details will be here.
