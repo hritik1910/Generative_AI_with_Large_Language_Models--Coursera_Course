@@ -320,4 +320,14 @@ How can RLHF align the performance of large language models with human preferenc
 (D). RLHF can help reduce model toxicity and misinformation
 **_Correct Ans_- (B) & (D)**
 
+How does Retrieval Augmented Generation (RAG) enhance generation-based models?
+
+By making external knowledge available to the model
+
+By applying reinforcement learning techniques to augment completions.
+
+By optimizing model architecture to generate factual completions.
+
+By increasing the training data size.
+
 # Ongoing Course. Very soon full details will be here.
