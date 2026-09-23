@@ -337,5 +337,6 @@ Which of the following are true in regards to Constitutional AI? Select all that
 (B). For constitutional AI, it is necessary to provide human feedback to guide the revisions.
 (C). In Constitutional AI, we train a model to choose between different responses.
 (D). Red Teaming is the process of eliciting undesirable responses by interacting with a model.
+**_Correct Ans_- (A), (C) & (D)**
 
 # Ongoing Course. Very soon full details will be here.
