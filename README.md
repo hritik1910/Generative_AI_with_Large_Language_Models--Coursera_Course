@@ -354,5 +354,7 @@ Is this true or false?
 
 (A). True
 (B). False
+**_Correct Ans_- (A)**
+
 
 # Ongoing Course. Very soon full details will be here.
