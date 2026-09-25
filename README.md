@@ -352,7 +352,7 @@ What does the "Proximal" in Proximal Policy Optimization refer to?
 You can use an algorithm other than Proximal Policy Optimization to update the model weights during RLHF."
 Is this true or false?
 
-True
-False
+(A). True
+(B). False
 
 # Ongoing Course. Very soon full details will be here.
