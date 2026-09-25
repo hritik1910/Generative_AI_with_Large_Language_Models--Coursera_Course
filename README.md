@@ -348,7 +348,11 @@ What does the "Proximal" in Proximal Policy Optimization refer to?
 (D). The use of a proximal gradient descent algorithm
 **_Correct Ans_- (A)**
 
+**Question 3**
 You can use an algorithm other than Proximal Policy Optimization to update the model weights during RLHF."
 Is this true or false?
+
+True
+False
 
 # Ongoing Course. Very soon full details will be here.
