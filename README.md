@@ -372,5 +372,6 @@ Fill in the blanks: When fine-tuning a large language model with human feedback,
 (B). Calculating the probability distribution, the LLM model weights.
 (C). Processing the prompt, context window.
 (D). Generating the next token, vocabulary of all tokens.
+**_Correct Ans_- (D)**
 
 # Ongoing Course. Very soon full details will be here.
