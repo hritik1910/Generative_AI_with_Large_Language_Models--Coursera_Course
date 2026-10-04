@@ -356,5 +356,13 @@ Is this true or false?
 (B). False
 **_Correct Ans_- (A)**
 
+**Question 4**
+In reinforcement learning, particularly with the Proximal Policy Optimization (PPO) algorithm, what is the role of KL-Divergence? Select all that apply.
+
+(A). KL divergence encourages large updates to the LLM weights to increase differences from the original model.
+(B). KL divergence is used to enforce a constraint that limits the extent of LLM weight updates.
+(C). KL divergence is used to train the reward model by scoring the difference of the new completions from the original human-labeled ones.
+(D). KL divergence measures the difference between two probability distributions.
+**_Correct Ans_- (B) & (D)**
 
 # Ongoing Course. Very soon full details will be here.
