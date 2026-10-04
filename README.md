@@ -365,4 +365,12 @@ In reinforcement learning, particularly with the Proximal Policy Optimization (P
 (D). KL divergence measures the difference between two probability distributions.
 **_Correct Ans_- (B) & (D)**
 
+**Question 5**
+Fill in the blanks: When fine-tuning a large language model with human feedback, the action that the agent (in this case the LLM) carries out is ________ and the action space is the _________.
+
+(A). Generating the next token, the context window
+(B). Calculating the probability distribution, the LLM model weights.
+(C). Processing the prompt, context window.
+(D). Generating the next token, vocabulary of all tokens.
+
 # Ongoing Course. Very soon full details will be here.
