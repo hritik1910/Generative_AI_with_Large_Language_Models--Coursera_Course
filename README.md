@@ -377,4 +377,10 @@ Fill in the blanks: When fine-tuning a large language model with human feedback,
 **Question 6**
 How does Retrieval Augmented Generation (RAG) enhance generation-based models?
 
+(A). By optimizing model architecture to generate factual completions.
+(B). By applying reinforcement learning techniques to augment completions. 
+(C). By making external knowledge available to the model
+(D). By increasing the training data size.
+**_Correct Ans_- (C)**
+
 # Ongoing Course. Very soon full details will be here.
