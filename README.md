@@ -395,5 +395,10 @@ How can incorporating information retrieval techniques improve your LLM applicat
 **Question 8**
 What are correct definitions of Program-aided Language (PAL) models? Select all that apply.
 
+(A). Models that offload computational tasks to other programs.
+(B). Models that enable automatic translation of programming languages to human languages.
+(C). Models that integrate language translation and coding functionalities.
+(D). Models that assist programmers in writing code through natural language interfaces.
+
 
 # Ongoing Course. Very soon full details will be here.
