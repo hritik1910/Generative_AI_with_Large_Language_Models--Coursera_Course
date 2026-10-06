@@ -390,5 +390,6 @@ How can incorporating information retrieval techniques improve your LLM applicat
 (B). Faster training speed when compared to traditional models
 (C). Reduced memory footprint for the model
 (D). Overcome Knowledge Cut-offs
+**_Correct Ans_- (A) & (D)**
 
 # Ongoing Course. Very soon full details will be here.
