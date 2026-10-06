@@ -383,4 +383,12 @@ How does Retrieval Augmented Generation (RAG) enhance generation-based models?
 (D). By increasing the training data size.
 **_Correct Ans_- (C)**
 
+**Question 7**
+How can incorporating information retrieval techniques improve your LLM application? Select all that apply.
+
+(A). Improve relevance and accuracy of responses
+(B). Faster training speed when compared to traditional models
+(C). Reduced memory footprint for the model
+(D). Overcome Knowledge Cut-offs
+
 # Ongoing Course. Very soon full details will be here.
