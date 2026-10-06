@@ -392,4 +392,8 @@ How can incorporating information retrieval techniques improve your LLM applicat
 (D). Overcome Knowledge Cut-offs
 **_Correct Ans_- (A) & (D)**
 
+**Question 8**
+What are correct definitions of Program-aided Language (PAL) models? Select all that apply.
+
+
 # Ongoing Course. Very soon full details will be here.
