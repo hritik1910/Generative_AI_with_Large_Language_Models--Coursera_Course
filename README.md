@@ -399,6 +399,6 @@ What are correct definitions of Program-aided Language (PAL) models? Select all 
 (B). Models that enable automatic translation of programming languages to human languages.
 (C). Models that integrate language translation and coding functionalities.
 (D). Models that assist programmers in writing code through natural language interfaces.
-
+**_Correct Ans_- (A) & (D)**
 
 # Ongoing Course. Very soon full details will be here.
