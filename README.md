@@ -374,4 +374,7 @@ Fill in the blanks: When fine-tuning a large language model with human feedback,
 (D). Generating the next token, vocabulary of all tokens.
 **_Correct Ans_- (D)**
 
+**Question 6**
+How does Retrieval Augmented Generation (RAG) enhance generation-based models?
+
 # Ongoing Course. Very soon full details will be here.
