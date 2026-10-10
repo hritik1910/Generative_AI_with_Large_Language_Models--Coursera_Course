@@ -405,5 +405,6 @@ What are correct definitions of Program-aided Language (PAL) models? Select all 
 Which of the following best describes the primary focus of ReAct?
 
 (A). Investigating reasoning abilities in LLMs through chain-of-thought prompting.
+(B). Studying the separate topics of reasoning and acting in LLMs.
 
 # Ongoing Course. Very soon full details will be here.
