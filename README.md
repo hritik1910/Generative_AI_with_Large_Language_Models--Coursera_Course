@@ -401,7 +401,9 @@ What are correct definitions of Program-aided Language (PAL) models? Select all 
 (D). Models that assist programmers in writing code through natural language interfaces.
 **_Correct Ans_- (A) & (D)**
 
-Question 9
+**Question 9**
 Which of the following best describes the primary focus of ReAct?
+
+(A). Investigating reasoning abilities in LLMs through chain-of-thought prompting.
 
 # Ongoing Course. Very soon full details will be here.
