@@ -414,6 +414,6 @@ What is the main purpose of the LangChain framework?
 
 (A). To provide prompt templates, agents, and memory components for working with LLMs.
 (B). To chain together different components and create advanced use cases around LLMs, such as chatbots, Generative Question-Answering (GQA), and summarization.
-
+(C). To connect with external APIs and datasets and offload computational tasks.
 
 # Ongoing Course. Very soon full details will be here.
