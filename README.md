@@ -408,6 +408,7 @@ Which of the following best describes the primary focus of ReAct?
 (B). Studying the separate topics of reasoning and acting in LLMs.
 (C). Enhancing language understanding and decision making in LLMs.
 (D). Exploring action plan generation in LLMs.
+**_Correct Ans_- (C)**
 
 **Question 10**
 What is the main purpose of the LangChain framework?
@@ -416,5 +417,6 @@ What is the main purpose of the LangChain framework?
 (B). To chain together different components and create advanced use cases around LLMs, such as chatbots, Generative Question-Answering (GQA), and summarization.
 (C). To connect with external APIs and datasets and offload computational tasks.
 (D). To evaluate the LLM's completions and provide fast prototyping and deployment capabilities.
+**_Correct Ans_- (B)**
 
 # Ongoing Course. Very soon full details will be here.
