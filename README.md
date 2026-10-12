@@ -419,4 +419,4 @@ What is the main purpose of the LangChain framework?
 (D). To evaluate the LLM's completions and provide fast prototyping and deployment capabilities.
 **_Correct Ans_- (B)**
 
-# Ongoing Course. Very soon full details will be here.
+# End of Course, Drop your review or Message me for any query.
